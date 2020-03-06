@@ -3,11 +3,11 @@
 
 //  verificando se existe tal nome no array
 
-$informeNome = "Boby";
+$informeNome = "Maria";
 
-$nomeFuncionario = array("Daniel", "Bruno", "Miriam", "Cesar");
+$nomeFuncionario = array("paulo", "joao", "jose", "gabriela");
 
-echo ($informeNome == $nomeFuncionario[0])?"Verdadeiro":"Falço";
+echo ($informeNome == $nomeFuncionario[0])?"Verdadeiro":"Falso";
 
 /* if ($nomeFuncionario[0] == $informeNome) {
 
