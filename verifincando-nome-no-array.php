@@ -5,7 +5,7 @@
 
 $informeNome = "Maria";
 
-$nomeFuncionario = array("paulo", "joao", "jose", "gabriela");
+$nomeFuncionario = array("Paulo", "Joao", "Jose", "Gabriela");
 
 echo ($informeNome == $nomeFuncionario[0])?"Verdadeiro":"Falso";
 
